@@ -1,0 +1,3 @@
+{:paths []
+ :deps {clj-time/clj-time {:mvn/version "0.14.3"}
+        core-lib/core-lib {:local/root "core-lib"}}}
